@@ -1,0 +1,26 @@
+header{
+	background-color: darkgreen;
+	padding: 80px;
+}
+img{
+	
+	width: 30%;
+	position: absolute;
+	left: 30;
+
+}
+
+*{
+	background-image:url('pexels-uzunov-rostislav-5011647.jpg');
+	background-size: cover;
+}
+
+.wil{
+	text-align:center;
+	color: rgb(225, 205, 222);
+	backface-visibility: hidden;
+}
+h1{
+	text-align:left;
+	color: rgb(232, 158, 23);
+}
